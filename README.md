@@ -7,4 +7,4 @@ This repository holds 2 sample flows which demonstate how easy it is to customiz
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
->For more details, visit [Unoffficial SF](https://unofficialsf.com/salesforce-scheduler/)
+>For more details, visit [Unoffficial SF](https://unofficialsf.com/email-signature-booking/)
